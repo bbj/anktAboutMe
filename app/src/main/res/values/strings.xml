@@ -3,4 +3,7 @@
     <string name="name">Bruno Jullien</string>
     <string name="yello_star">Yellow Star</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Bruno.
+        \n\nI am from France.
+        \n\nI am from France.</string>
 </resources>
